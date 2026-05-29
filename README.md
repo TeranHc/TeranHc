@@ -78,8 +78,6 @@ Desarrollo de un asistente virtual 3D basado en inteligencia artificial para con
     📧 teranrk@hotmail.com
   </a>
 
-  <br><br>
-
   <a href="https://teranhc.github.io/CV/" target="_blank">
     🌐 Portafolio Web
   </a>
