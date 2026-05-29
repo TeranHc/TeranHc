@@ -73,9 +73,6 @@ Desarrollo de un asistente virtual 3D basado en inteligencia artificial para con
 ## 🌎 Conecta conmigo
 
 <p align="left">
-  <a href="https://github.com/TeranHc" target="_blank">
-    <img src="https://skillicons.dev/icons?i=github" height="45" />
-  </a>
 
   <a href="mailto:teranrk@hotmail.com">
     📧 teranrk@hotmail.com
