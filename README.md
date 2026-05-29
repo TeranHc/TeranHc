@@ -70,34 +70,23 @@ Desarrollo de un asistente virtual 3D basado en inteligencia artificial para con
 
 ---
 
-## 📊 Estadísticas de GitHub
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=TeranHc&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TeranHc&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TeranHc&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
 ## 🌎 Conecta conmigo
 
-<p>
+<p align="left">
   <a href="https://github.com/TeranHc" target="_blank">
-    <img src="https://skillicons.dev/icons?i=github" />
+    <img src="https://skillicons.dev/icons?i=github" height="45" />
   </a>
+
+  <a href="mailto:teranrk@hotmail.com">
+    📧 teranrk@hotmail.com
+  </a>
+
+  <br><br>
 
   <a href="https://teranhc.github.io/CV/" target="_blank">
-    🌐 Portafolio
+    🌐 Portafolio Web
   </a>
 </p>
-
 ---
 
 <p align="center">
