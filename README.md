@@ -85,8 +85,7 @@ Desarrollo de un asistente virtual 3D basado en inteligencia artificial para con
     🌐 Portafolio
   </a>
 </p>
----
 
 <p align="center">
-  ✨ “Siempre aprendiendo y construyendo nuevas soluciones tecnológicas.” ✨
+  “Siempre aprendiendo y construyendo nuevas soluciones tecnológicas.” 
 </p>
