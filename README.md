@@ -73,13 +73,13 @@ Desarrollo de un asistente virtual 3D basado en inteligencia artificial para con
 ## 🌎 Conecta conmigo
 
 <p align="left">
-
+  Mi Correo electrónico 
   <a href="mailto:teranrk@hotmail.com">
     📧 teranrk@hotmail.com
   </a>
-
+  🌐 Portafolio Web
   <a href="https://teranhc.github.io/CV/" target="_blank">
-    🌐 Portafolio Web
+    
   </a>
 </p>
 ---
